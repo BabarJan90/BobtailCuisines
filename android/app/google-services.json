@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "82862467805",
+    "project_id": "bobtail-cuisines",
+    "storage_bucket": "bobtail-cuisines.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82862467805:android:33fc420abf1c08db724934",
+        "android_client_info": {
+          "package_name": "com.example.bobtail_cuisines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82862467805-b7m1nh8vrt2d7h2ur0qspgmi34opt7bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVkw6ytQc7EiQ6bBVNILEtrp2tYMcL3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82862467805-b7m1nh8vrt2d7h2ur0qspgmi34opt7bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82862467805-3d5j397eks905tju6tbvqr9d41qg4bds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bobtailCuisines"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
